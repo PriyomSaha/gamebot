@@ -1,2 +1,2 @@
-# GameBot
-# Specialised in GTA San Andreus
+#                             GameBot
+#                  Specialised in GTA San Andreus
